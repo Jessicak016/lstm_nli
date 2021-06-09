@@ -22,3 +22,12 @@ The project makes use of the GloVe to create word embeddings. The glove.840B.300
 
 More details about the project can be found in this blog post [here](https://jessjkim-1.medium.com/natural-language-inference-exploring-sentence-models-and-relation-extraction-methods-6fe27b3e0d43?source=friends_link&sk=308cf2bcbb984e173183ade0a74af987). 
 
+
+#### References
+Bowman, S. R., Angeli, G., Potts, C., & Manning, C. D. (2015). A large annotated corpus for learning natural language inference. Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+Conneau, A., Kiela, D., Schwenk, H., Barrault, L., & Bordes, A. (2018). Supervised Learning of Universal Sentence Representations from Natural Language Inference Data. ArXiv:1705.02364 [cs.CL]. Retrieved April 10, 2021, from https://arxiv.org/pdf/1705.02364v5.pdf
+
+Merity, S. (2017). Keras SNLI baseline example. Retrieved April 15, 2021, from https://github.com/Smerity/keras_snli/ blob/master/snli_rnn.py
+
+Poliak, A., Naradowsky, J., Aparajita, H., Rudinger, R., & Van Durme, B. (2018). Hypothesis Only Baselines in Natural Language Inference. Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (SEM), 180–191. https://www. aclweb.org/anthology/S18–2023.pdf
