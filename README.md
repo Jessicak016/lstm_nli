@@ -30,4 +30,4 @@ Conneau, A., Kiela, D., Schwenk, H., Barrault, L., & Bordes, A. (2018). Supervis
 
 Merity, S. (2017). Keras SNLI baseline example. Retrieved April 15, 2021, from https://github.com/Smerity/keras_snli/ blob/master/snli_rnn.py
 
-Poliak, A., Naradowsky, J., Aparajita, H., Rudinger, R., & Van Durme, B. (2018). Hypothesis Only Baselines in Natural Language Inference. Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (SEM), 180–191. https://www. aclweb.org/anthology/S18–2023.pdf
+Poliak, A., Naradowsky, J., Aparajita, H., Rudinger, R., & Van Durme, B. (2018). Hypothesis Only Baselines in Natural Language Inference. Proceedings of the 7th Joint Conference on Lexical and Computational Semantics (SEM), 180–191. https://www.aclweb.org/anthology/S18–2023.pdf
